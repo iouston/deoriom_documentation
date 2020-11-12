@@ -6,7 +6,7 @@
 > Deo RIOM - Registre Informatique Offrandes de Messe
 
 [Accéder à Deoriom](https://www.deoriom.fr)
-[Lire la documentation](.app-name)
+[Lire la documentation](.cest_quoi)
 
 <!-- background image -->
-![](_media/bg.jpg)
+![](_media/eglise2.jpg)
