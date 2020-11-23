@@ -15,10 +15,10 @@
 * Une fois connecté à Deoriom, vous arrivez sur le tableau de bord
 * Notez que tous les menus principaux se trouveront toujours en haut de votre écran
 * Sur la droite, vous voyez votre indentifiant. Ce menu déroulant permet de vous déconnectez
-[tableau de bord](_media/vue_generale.jpg)
+[!tableau de bord](_media/vue_generale.jpg)
 
 ## Le menu d'action
 * Une fois que vous avez sélectionné un lien dans le menu principal horizaontal, le menu d'action de cette section se trouvera toujours sur la gauche de l'écran.
 * __Par exemple :__ Depuis le menu intention, je peux saisir des intentions.
-[menu gauche](_media/menu_gauche.jpg) 
+[!menu gauche](_media/menu_gauche.jpg) 
 

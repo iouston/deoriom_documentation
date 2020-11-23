@@ -33,27 +33,37 @@
 * Sélectionnez [intention](https://www.deoriom.fr/intention/index.php) dans le menu principal
 * Là, sélectionnez, [Nouvelle intention](https://www.deoriom.fr/intention/card.php?action=create) dans le menu gauche
 * Une liste de champ apparait
-> [!TIPS]
-> Seuls les champs en **gras** sont obligatoires à remplir
-* Remplissez les différents champs de l'intention :
-→ Le type
-→ La récurrence : Neuvaine, trentain, etc... [cf. Neuvaines et trentains](intentions?id=neuvaine-et-trentains)
-→ La date de célébration : laissez vide si l'intention n'est pas encore célébrée
-→ De / pour
-→ Le demandeur
-→ Le célébrant : vous pouvez rechercher un célébrant particulier en saisissant des lettres de son nom
-→ Le commentaire : si besoin
-→ La date de l'annonce : en vos aidant si besoin du calendrier, sinon en saisissant une date au format jj/mm/aaaa
-→ La paroisse : en vous aidant du menu déroulant
-→ Le clocher : fonction de la paroisse sélectionnée
-→ Le type de réglement
-→ Le montant de l'offrande
-→ Si la messe est Pro Populo : [cf. Messes Pro Populo](intentions?id=messes-pro-populo)
-→ Si le transfert est autorisé : [cf. Transferts des intentions](intentions?id=transfert-des-intentions)
-→ Si l'intention est privée : [cf. Intention privée]()intentions?id=intention-privee
 
-[Saisie d'une intention. Seuls les champs en gras sont obligatoires. Cliquer sur "Créer intention" une fois les champs saisis](_media/saisie_intention.jpg)
+> [!TIP]
+> Seuls les champs en **gras** sont obligatoires à remplir
+
+* Remplissez les différents champs de l'intention :
+* → Le type
+* → La récurrence : Neuvaine, trentain, etc... [cf. Neuvaines et trentains](intentions?id=neuvaine-et-trentains)
+* → La date de célébration : laissez vide si l'intention n'est pas encore célébrée
+* → De / pour
+* → Le demandeur
+* → Le célébrant : vous pouvez rechercher un célébrant particulier en saisissant des lettres de son nom
+* → Le commentaire : si besoin
+* → La date de l'annonce : en vos aidant si besoin du calendrier, sinon en saisissant une date au format jj/mm/aaaa
+* → La paroisse : en vous aidant du menu déroulant
+* → Le clocher : fonction de la paroisse sélectionnée
+* → Le type de réglement
+* → Le montant de l'offrande
+* → Si la messe est Pro Populo : [cf. Messes Pro Populo](intentions?id=messes-pro-populo)
+* → Si le transfert est autorisé : [cf. Transferts des intentions](intentions?id=transfert-des-intentions)
+* → Si l'intention est privée : [cf. Intention privée]()intentions?id=intention-privee
+
+[!Saisie d'une intention. Seuls les champs en gras sont obligatoires. Cliquer sur "Créer intention" une fois les champs saisis](_media/saisie_intention.jpg)
 *Une fois les champs de l'intention remplis, cliquez sur "Créer intention" pour l'enregsitrer*
+
+## Modifier une intention
+* Une fois que vous avez créé une intention, deoriom affiche un écran avec toutes les informations saisies
+* Si certaines informations sont erronées, vous pouvez les modifier en cliquant sur l'icone d'édition qui se trouve à droite de chaque champ, comme entouré sur l'image suivante
+* Le champ de formulaire apparait alors et vous permet de modifier la donnée.
+* Validez en cliquant sur le bouton 'Modifier'
+* Votre intention a été modifiée.
+[!modifier une intention](_media/modifier_intention)
 
 ## Cycle de vie d'une intention
 * A compléter
@@ -64,8 +74,10 @@
 > aux décisions de l’Ordinaire. Exception est faite pour la fête de Noël (c. 951 § 1).
 * Un célébrant ne peut se voir affecter qu'une seule intention par jour.
 * Dans le cas ou plusieurs autres intentions lui sont affectées, elles viendront alimenter le 'binage'
-> [!TIPS]
+
+> [!TIP]
 > Le 25 décembre de chaque année, 3 offrandes peuvent être affectées au célébrant. Les offrandes supplémentaires seront également comptabilisées en binage
+
 * Le binage correspond à la célébration de deux messes par jour, le trinage, le fait d'en célébrer 3 et ainsi de suite.
 
 ## Messes pro populo
@@ -87,6 +99,23 @@ messe sera appliquée à l’ensemble (c.388 § 3 ; 534 § 2).
 * Le transfert d'une intention permet de transférer des intentions qui n'ont pas encore été affectée à un célébrant et qui ne sont pas célbrées à un autre célébrant
 * On ne peut transférer des intentions qu'au sein d'un même diocèse
 * Le transfert déplacera en priorité les intentions annoncées et les plus anciennes, dont le transfert est autorisé et non affectée à un célébrant.
+
+## Transférer une intention
+<!-- tabs:start -->
+
+#### ** Transférer une intention à la fois **
+* Depuis le détail d'une intention, cliquez sur le bouton "Transférer"
+* Une boite de dialogue vous invite à choisir vers quelle paroisse vous souhaitez transférer cette intention.
+* Valider votre choix
+[!transferer intention](_media/transferer_intention_masse.jpg)
+
+#### ** Transférer plusieurs intentions à la fois **
+* Depuis la liste des intentions, sélectionnez les intentions que vous souhaitez transférer
+* En haut au centre apparait alors un menu d'action de masse, choisissez "Transférer"
+* Indiquez la paroisse de destination du transfert et valider votre choix.
+[!transferer intention masse](_media/transferer_intention_masse.jpg)
+
+<!-- tabs:end -->
 
 ## Intention privée
 ... A compléter
