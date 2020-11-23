@@ -9,4 +9,4 @@
 [Lire la documentation](cest_quoi)
 
 <!-- background image -->
-![fond_page](_media/eglise2.jpg)
+![color](#118ADB)
