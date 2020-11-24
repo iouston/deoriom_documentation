@@ -31,6 +31,13 @@
 > [!TIP]
 > Remarquez dans l'exemple l'utilisation de plusieurs filtres qui permet d'arriver facilement à la donnée désirée
 
+## Pagination et affichage
+* Depuis les listes, vous apercevez en haut à droite le nombre d'éléments affichés ainsi que les éléments de pagination pour naviguer dans les données
+* Vous pouvez à tout moment, modifier le nombre de données affichées en sélectionnant le nombre voulu depuis le menu déroulant
+
+![Affichage de la pagination](_media/pagination_affichage.jpg)
+
+
 ## Utiliser les marques pages
 * Les marques pages sont une fonction qui vous permettent de revenir rapidement à un écran de l'outil
 * Pour ce faire, une fois que vous êtes sur la page désirée, par exemple, la création d'une nouvelle intention, cliquer sur le lien "Placer la page courante dans les marques pages"
@@ -40,4 +47,6 @@
 ![étape 1 pour créer un marque page](_media/marque_page1.jpg)
 ![étape 2 pour créer un marque page](_media/marque_page2.jpg)
 ![étape 3 pour créer un marque page](_media/marque_page3.jpg)
+
+
 
