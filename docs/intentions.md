@@ -52,7 +52,7 @@
 *→ Le montant de l'offrande
 *→ Si la messe est Pro Populo : [cf. Messes Pro Populo](intentions?id=messes-pro-populo)
 *→ Si le transfert est autorisé : [cf. Transferts des intentions](intentions?id=transfert-des-intentions)
-*→ Si l'intention est privée : [cf. Intention privée]()intentions?id=intention-privee
+*→ Si l'intention est privée : [cf. Intention privée](intentions?id=intention-privee)
 
 ![Saisie d'une intention. Seuls les champs en gras sont obligatoires. Cliquer sur "Créer intention" une fois les champs saisis](_media/saisie_intention.jpg)
 *Une fois les champs de l'intention remplis, cliquez sur "Créer intention" pour l'enregsitrer*
@@ -63,7 +63,7 @@
 * Le champ de formulaire apparait alors et vous permet de modifier la donnée.
 * Validez en cliquant sur le bouton 'Modifier'
 * Votre intention a été modifiée.
-![modifier une intention](_media/modifier_intention)
+![modifier une intention](_media/modifier_intention.jpg)
 
 ## Cycle de vie d'une intention
 * A compléter
@@ -107,15 +107,20 @@ messe sera appliquée à l’ensemble (c.388 § 3 ; 534 § 2).
 * Depuis le détail d'une intention, cliquez sur le bouton "Transférer"
 * Une boite de dialogue vous invite à choisir vers quelle paroisse vous souhaitez transférer cette intention.
 * Valider votre choix
+
 ![transferer intention](_media/transferer_intention_masse.jpg)
 
 #### ** Transférer plusieurs intentions à la fois **
 * Depuis la liste des intentions, sélectionnez les intentions que vous souhaitez transférer
 * En haut au centre apparait alors un menu d'action de masse, choisissez "Transférer"
 * Indiquez la paroisse de destination du transfert et valider votre choix.
+
 ![transferer intention masse](_media/transferer_intention_masse.jpg)
 
 <!-- tabs:end -->
 
 ## Intention privée
-... A compléter
+* Lorsqu'une intention est indiquée comme privée, cela a pour effet :
+- Ne pas la faire remonter dans la liste des intentions communes
+- Ne pas la décompter dans les célébrations réalisées
+- Ne pas la décompter dans le paiement ni dans le surplus
