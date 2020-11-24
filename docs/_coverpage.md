@@ -7,6 +7,3 @@
 
 [Accéder à Deoriom](https://www.deoriom.fr)
 [Lire la documentation](cest_quoi)
-
-<!-- background image -->
-![color](#118ADB)
