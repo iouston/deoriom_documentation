@@ -10,6 +10,8 @@
   - [Paroisses & clochers](/paroisses_clochers)
   - [Intentions](/intentions)
   - [Compteurs](/compteurs)
+  - [Pivots reports](/pivotsreport)
+  - [Utilisateurs](/users)
 - **Assistance**
 	- [Contacter l'assistance](/contact_assistance)
 
