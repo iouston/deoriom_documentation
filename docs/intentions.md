@@ -38,21 +38,21 @@
 > Seuls les champs en **gras** sont obligatoires à remplir
 
 * Remplissez les différents champs de l'intention :
-*→ Le type
-*→ La récurrence : Neuvaine, trentain, etc... [cf. Neuvaines et trentains](intentions?id=neuvaine-et-trentains)
-*→ La date de célébration : laissez vide si l'intention n'est pas encore célébrée
-*→ De / pour
-*→ Le demandeur
-*→ Le célébrant : vous pouvez rechercher un célébrant particulier en saisissant des lettres de son nom
-*→ Le commentaire : si besoin
-*→ La date de l'annonce : en vos aidant si besoin du calendrier, sinon en saisissant une date au format jj/mm/aaaa
-*→ La paroisse : en vous aidant du menu déroulant
-*→ Le clocher : fonction de la paroisse sélectionnée
-*→ Le type de réglement
-*→ Le montant de l'offrande
-*→ Si la messe est Pro Populo : [cf. Messes Pro Populo](intentions?id=messes-pro-populo)
-*→ Si le transfert est autorisé : [cf. Transferts des intentions](intentions?id=transfert-des-intentions)
-*→ Si l'intention est privée : [cf. Intention privée](intentions?id=intention-privee)
+* **→ Le type**
+* **→ La récurrence :** Neuvaine, trentain, etc... [cf. Neuvaines et trentains](intentions?id=neuvaine-et-trentains)
+* **→ La date de célébration :** laissez vide si l'intention n'est pas encore célébrée
+* **→ De / pour**
+* **→ Le demandeur**
+* **→ Le célébrant :** vous pouvez rechercher un célébrant particulier en saisissant des lettres de son nom
+* **→ Le commentaire :** si besoin
+* **→ La date de l'annonce :** en vos aidant si besoin du calendrier, sinon en saisissant une date au format jj/mm/aaaa
+* **→ La paroisse : en vous aidant du menu déroulant**
+* **→ Le clocher : fonction de la paroisse sélectionnée**
+* **→ Le type de réglement**
+* **→ Le montant de l'offrande**
+* **→ Si la messe est Pro Populo :** [cf. Messes Pro Populo](intentions?id=messes-pro-populo)
+* **→ Si le transfert est autorisé :** [cf. Transferts des intentions](intentions?id=transfert-des-intentions)
+* **→ Si l'intention est privée :** [cf. Intention privée](intentions?id=intention-privee)
 
 ![Saisie d'une intention. Seuls les champs en gras sont obligatoires. Cliquer sur "Créer intention" une fois les champs saisis](_media/saisie_intention.jpg)
 *Une fois les champs de l'intention remplis, cliquez sur "Créer intention" pour l'enregsitrer*

@@ -9,8 +9,7 @@
   - [Se connecter](/se_connecter)
   - [Paroisses & clochers](/paroisses_clochers)
   - [Intentions](/intentions)
-- **Utilisation avancée**
-- **Questions Fréquentes**
+  - [Compteurs](/compteurs)
 - **Assistance**
 	- [Contacter l'assistance](/contact_assistance)
 
